@@ -1,0 +1,8 @@
+{
+  "name": "slm-gulp",
+  "version": "1.0.0",
+  "description": "static web app workflow",
+  "main": "index.js",
+  "repository": "https://github.com/slmholder/slm-gulp.git",
+  "license": "MIT"
+}
